@@ -10,11 +10,13 @@
 <a href="mailto:codreanvictor@gmail.com" style="text-decoration:none"><img height="30" src = "https://img.shields.io/badge/Gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white&style=plastic"></a>
 [<img height="30" src = "https://img.shields.io/badge/Facebook-036be4.svg?&style=for-the-badge&logo=facebook&logoColor=white&style=plastic">](https://www.facebook.com/VeCSaR)
 <hr />
+<p align = center>
+<img src = "https://github-readme-stats.vercel.app/api?username=VictorCodrean&theme=great-gatsby&show_icons=true
+">
 
 - 🔭 I’m currently working in Residential Remodeling
 - 👨‍🎓 I’m studying Full Stack Web Development at UW
 - 👯 I’m looking to 🌐 explore more and more in tech 
 - 💬 Ask me about anything, see if I can answer
 - 📫 How to reach me: <a href="mailto:codreanvictor@gmail.com" style="text-decoration:none"><img height="15" src = "https://img.shields.io/badge/Gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white&style=plastic"></a>
-
 
