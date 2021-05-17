@@ -11,9 +11,9 @@
 [<img height="30" src = "https://img.shields.io/badge/Facebook-036be4.svg?&style=for-the-badge&logo=facebook&logoColor=white&style=plastic">](https://www.facebook.com/VeCSaR)
 <hr />
 <p align = center>
-<img src = "https://github-readme-stats.vercel.app/api?username=VictorCodrean&theme=great-gatsby&show_icons=true">
+<img src = "https://github-readme-stats.vercel.app/api?username=VictorCodrean&theme=great-gatsby&show_icons=true"><br/>
   
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=VictorCodrean&langs_count=5&theme=radical">
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=VictorCodrean&langs_count=5&theme=great-gatsby">
 
 - 🔭 I’m currently working in Residential Remodeling
 - 👨‍🎓 I’m studying Full Stack Web Development at UW
