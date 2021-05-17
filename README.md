@@ -12,7 +12,7 @@
 <hr />
 <p align = center>
 <img src = "https://github-readme-stats.vercel.app/api?username=VictorCodrean&theme=great-gatsby&show_icons=true">
-[My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorCodrean&langs_count=5&theme=radical)]()
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=VictorCodrean&langs_count=5&theme=radical">
 
 - 🔭 I’m currently working in Residential Remodeling
 - 👨‍🎓 I’m studying Full Stack Web Development at UW
